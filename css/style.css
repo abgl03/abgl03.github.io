@@ -2,7 +2,7 @@
     body {
         position: relative;
         height: 100%;
-        --swiper-theme-color: #95b7ab !important;
+        --swiper-theme-color: #212529 !important;
     }
 
     body {
@@ -44,12 +44,9 @@
     }
 
     .title-box {
-        background-color: #95b7ab;
-        color: #FFFFFF;
-        padding: 4px 16px;
-        letter-spacing: 1px;
-        border-radius: 10px;
-        margin-bottom: 1rem;
+    color: #212529;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
     }
 
     .role {
@@ -114,8 +111,8 @@
     }
 
     .swiper-slide-title {
-        background-color: #b2d2c7;
-        color: #FFFFFF;
+        background-color: #FFFFFF;
+        color: #212529;
     }
 
     .swiper-slide-title h1 {
@@ -141,50 +138,26 @@
     }
 
     .ss-1 .portfolio-img {
-        background-image: url("../img/BigSave_BW.png");
-    }
-
-    .ss-1 .portfolio-img:hover {
-        background-image: url("../img/BigSave.png");
+        background-image: url("../img/CompanyX.png");
     }
 
     .ss-2 .portfolio-img {
-        background-image: url("../img/Articulate_BW.png");
-    }
-
-    .ss-2 .portfolio-img:hover {
         background-image: url("../img/Articulate.png");
     }
 
     .ss-3 .portfolio-img {
-        background-image: url("../img/Mixtro_BW.png");
-    }
-
-    .ss-3 .portfolio-img:hover {
         background-image: url("../img/Mixtro.png");
     }
 
     .ss-4 .portfolio-img {
-        background-image: url("../img/IWS_BW.png");
-    }
-
-    .ss-4 .portfolio-img:hover {
-        background-image: url("../img/IWS.png");
+        background-image: url("../img/ProjectY.png");
     }
 
     .ss-5 .portfolio-img {
-        background-image: url("../img/Acumen_BW.png");
-    }
-
-    .ss-5 .portfolio-img:hover {
         background-image: url("../img/Acumen.png");
     }
 
     .ss-6 .portfolio-img {
-        background-image: url("../img/Danium_BW.png");
-    }
-
-    .ss-6 .portfolio-img:hover {
         background-image: url("../img/Danium.png");
     }
 
